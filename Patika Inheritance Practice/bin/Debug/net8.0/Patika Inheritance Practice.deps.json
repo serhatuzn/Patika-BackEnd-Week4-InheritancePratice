@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Patika Inheritance Practice/1.0.0": {
+        "runtime": {
+          "Patika Inheritance Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Patika Inheritance Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
